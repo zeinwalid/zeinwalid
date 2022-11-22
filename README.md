@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Zein Eldein Waleed</h1>
 <h3 align="center">A passionate frontend developer from Egypt</h3>
-<img align="right" alt="man coding" src = "https://www.cetoday.ch/sites/default/files/inline-images/Programmer.gif">
+<img align="right style="border-radius:10px;" alt="man coding" src = "https://www.cetoday.ch/sites/default/files/inline-images/Programmer.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zeinwaleed&label=Profile%20views&color=0e75b6&style=flat" alt="zeinwaleed" /> </p>
